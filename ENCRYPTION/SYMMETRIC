@@ -1,0 +1,2 @@
+Symmetric encryption is a type of cryptography that uses the same key to encrypt and decrypt data.
+It's also known as "private key" encryption because the key must be kept secret.

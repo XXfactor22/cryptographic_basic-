@@ -1,0 +1,1 @@
+Asymmetric encryption, also known as public key cryptography, is a method of encrypting and decrypting data using a pair of keys: a public key and a private key. The public key is used to encrypt plaintext, and the corresponding private key is used to decrypt the ciphertext
